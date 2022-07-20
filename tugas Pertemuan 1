@@ -2,7 +2,7 @@
    a. Kenapa belajar programming?
       Jawab: membuat kita lebih kreatif dan memiliki  lapangan kerja yang luas
    b. Motivas/tujuan apa?
-      Jawab: saya ingin bisa frontend developer, dan programmer it penuh dengan tantangan
+      Jawab: saya ingin bisa frontend developer, dan programmer itu penuh dengan tantangan
    c. Targetnya apa?
       Jawab: dalam 2 bulan sudah mengerti dan memahami HTML, CSS, dan Javascrip
    d. Bagaimana kalian akan belajar programming?
@@ -18,3 +18,8 @@
    Jawab: Jangan panik jika menemukan eror, mencari kesalahan penulisan,
           berusah memahami pesan error dan melihat kode di sekitar baris eror yang ada dan mencari di browser,
           jika tidak/susah menemukan error bisa bertanya kepada senior.
+          
+4. Dari beberapa error berikut, silahkan kalian pahami pesan errornya, googline,dan  berikan kesimpulan apa yang salah, serta apa yang perlu di perbaiki!
+   gambar Error 1
+       Jawab: kode yang berjalan tidak memiliki akses ke lingkup lokal, juga bisa terkait dengan instalasi node yang rusak. 
+              dan mencoba menghapus npm. dan instal ulang sepenuhnya.
