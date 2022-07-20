@@ -6,7 +6,7 @@
    c. Targetnya apa?
       Jawab: dalam 2 bulan sudah mengerti dan memahami HTML, CSS, dan Javascrip
    d. Bagaimana kalian akan belajar programming?
-      Jawab: dengan mengikuti kelas di pijar camp dan mendapatkan pelatihan dasar web programming,mengikuti bootcamp dan terus berlatih dan mencari refrensi
+      Jawab: dengan mengikuti kelas di pijar camp dan mendapatkan pelatihan dasar web programming, mengikuti bootcamp dan terus berlatih dan mencari refrensi
 
 2. Sebutkan langkah belajar yang benar:
    Jawab: input-proses-output
@@ -16,10 +16,19 @@
             
 3. Sebutkan langkah yang akan di hadapi jika mengalami kesulitan, error, bug dan lainnya:
    Jawab: Jangan panik jika menemukan eror, mencari kesalahan penulisan,
-          berusah memahami pesan error dan melihat kode di sekitar baris eror yang ada dan mencari di browser,
+          berusah memahami pesan error dan melihat kode di sekitar baris error yang ada dan mencari di browser,
           jika tidak/susah menemukan error bisa bertanya kepada senior.
           
 4. Dari beberapa error berikut, silahkan kalian pahami pesan errornya, googline,dan  berikan kesimpulan apa yang salah, serta apa yang perlu di perbaiki!
-   gambar Error 1
+   Gambar Error 1..
        Jawab: kode yang berjalan tidak memiliki akses ke lingkup lokal, juga bisa terkait dengan instalasi node yang rusak. 
-              dan mencoba menghapus npm. dan instal ulang sepenuhnya.
+              dan mencoba hapus npm. dan instal ulang sepenuhnya.
+              
+   Dari beberapa error berikut, silahkan kalian pahami pesan errornya, googline,dan  berikan kesimpulan apa yang salah, serta apa yang perlu di perbaiki!
+   Gambar Error 2..
+       Jawab: vaule belum di isi , isi vaule
+   
+   Dari beberapa error berikut, silahkan kalian pahami pesan errornya, googline,dan  berikan kesimpulan apa yang salah, serta apa yang perlu di perbaiki!
+   Gambar Error 3..
+       Jawab: kesalahan yang muncul karena adanya aturan bahasa pemrograman yang tidak diikuti. yang harus di perbaiki
+              Cari baris kode yang mengakibatkan error dan Ubah kode tersebut . 
